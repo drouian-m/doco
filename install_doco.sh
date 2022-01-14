@@ -51,5 +51,5 @@ esac
 
 echo $doco_alias >> $conf_file
 
-echo "doco alias added in $conf_file"
+echo "doco alias added in $conf_file run 'source $conf_file' or restart your shell"
 
