@@ -32,3 +32,5 @@ alias doco="docker-compose"
 `docker compose up -d` becomes `doco up -d`
 
 `docker compose ps` becomes `doco ps`
+
+[![asciicast](https://asciinema.org/a/lPHSJcjnmLbbfTxTYIrLUnU4W.svg)](https://asciinema.org/a/lPHSJcjnmLbbfTxTYIrLUnU4W)
