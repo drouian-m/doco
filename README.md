@@ -1,5 +1,5 @@
 # doco
-doco is an alias for docker compose
+doco is a shell alias for docker compose
 
 ## Install
 
