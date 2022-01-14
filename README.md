@@ -8,7 +8,7 @@ doco is an alias for docker compose
 The following script will add the alias in your shell system.
 
 ```shell
-./install_doco.sh
+bash <(curl -s https://raw.githubusercontent.com/drouian-m/doco/main/install_doco.sh)
 ```
 
 ### Manual
